@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  ###   "Stop thinking here, Let's do it" 
+  ###   "Let's do it" 
 
 </div>
 
